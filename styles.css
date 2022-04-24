@@ -1,0 +1,16 @@
+ table,th,td {
+    border :2px solid black;
+    
+}
+
+.red { 
+    background-color : red;
+    text-decoration : red;
+}
+
+.green { 
+    background-color : green;
+}
+.orange { 
+    background: orange;
+}

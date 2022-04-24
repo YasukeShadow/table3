@@ -1,0 +1,28 @@
+{
+  "userData": [
+    {
+      "nom": "carrefour market",
+      "adress": "32 rue des alliers",
+      "statut": "stable",
+      "signal": "green",
+      "date": "23/3/2022  23:23:26",
+      "id": 1
+    },
+    {
+      "nom": "boucherie ",
+      "adress": "place meiser ",
+      "statut": "moyen",
+      "signal": "orange",
+      "date": "23/3/2022  23:30:59",
+      "id": 2
+    },
+    {
+      "nom": "panasonic",
+      "adress": "9 rue des faucons",
+      "statut": "full",
+      "signal": "red",
+      "date": "23/3/2022  23:32:19",
+      "id": 3
+    }
+  ]
+}
